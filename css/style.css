@@ -4,6 +4,10 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Literata', serif;
+    background-image: url('https://i.postimg.cc/D0dMS0Fd/pexels-nathan-cowley-1128797.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 p {
