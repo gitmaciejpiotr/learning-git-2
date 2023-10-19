@@ -5,3 +5,11 @@ body {
     align-items: center;
     font-family: 'Literata', serif;
 }
+
+p {
+    line-height: 2.2;
+}
+
+i {
+    margin-bottom: 80px;
+}
