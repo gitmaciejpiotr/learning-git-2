@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "html-validate": "^8.6.0"
+  }
+}
