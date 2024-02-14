@@ -1,1 +1,4 @@
 npm exec html-validate index.html
+
+git branch nazwa-brancha tworzy nowy branch,
+git checkout nazwa-brancha zmienia aktywny branch.
